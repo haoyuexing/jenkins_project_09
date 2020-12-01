@@ -11,3 +11,9 @@ class TestContact:
 
     def test_contact4(self):
         assert 0
+
+    def test_contact5(self):
+        assert 0
+
+    def test_contact6(self):
+        assert 1
